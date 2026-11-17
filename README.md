@@ -1,15 +1,14 @@
 # Hi, I'm Lamees!
 
-**UI/UX Designer | Computer Science Student | Aspiring Product Designer**
+**I care about the details that make technology feel effortless.**
 
-I'm passionate about creating digital experiences that are simple, thoughtful, and genuinely useful. I enjoy combining creativity with problem-solving to design products that make everyday tasks easier.
+I'm a computer science student drawn to the intersection of design, technology, and human behavior. I love figuring out why something works, why something doesn't, and how even the smallest design decisions can completely change someone's experience.
 
-With a background in healthcare and computer science, I'm especially interested in designing technology that solves real-world problems. I'm currently working on **ShiftCue**, a healthcare app concept focused on improving care documentation and making daily workflows easier for nursing staff.
+My background in healthcare has taught me to look beyond the screen and understand the people actually using a product. Combined with my interest in programming and visual design, it's shaped the way I approach problems—with curiosity, creativity, and a focus on what genuinely matters to the user.
 
-I'm always learning, exploring new ideas, and finding ways to grow as a designer and developer.
+I'm especially interested in UI/UX, product design, and front-end development, where I can bring together the technical and creative sides of what I do.
 
-**What I'm working with:** Figma, UI/UX Design, Java, SQL, HTML & CSS
+When I'm not designing or coding, I'm usually working out, listening to every genre of music, talking to people, or finding inspiration somewhere unexpected.
 
-Outside of design, I enjoy working out, listening to all genres of music, talking to people, and finding new creative inspiration.
 
 
